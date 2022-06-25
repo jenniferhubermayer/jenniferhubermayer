@@ -9,6 +9,9 @@ My technologies:
 - HTML
 - CSS
 - JavaScript
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferhubermayer&layout=compact">
+
 <!--ReactJS
 NodeJS
 
