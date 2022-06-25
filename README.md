@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 - Frontend Mentor Challenge - Huddle landing page with curved sections – 👀 [Repository](https://github.com/jenniferhubermayer/huddle-landing-page-with-curved-sections)
 
-## 🔭 I lately finished ...
+## 🏆 I lately finished ...
 
 - super(c)ode Challenge – Online horoscope using if-else-check – 👀 [Repository](https://github.com/jenniferhubermayer/horoscope-using-if-else-check)
 - super(c)ode Challenge – Online member list using arrays – 👀 [Repository](https://github.com/jenniferhubermayer/member-list-using-array)
