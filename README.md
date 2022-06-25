@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jennifer Huber-Mayer. I am passionate about new technologies 💻 and project management 🐙 . Currently I work am a trainee in frontend development at (https://www.super-code.de/)[super(c)ode)].
+I'm Jennifer Huber-Mayer. I am passionate about new technologies 💻 and project management 🐙 . Currently I work am a trainee in frontend development at (https://www.super-code.de/)[super(c)ode].
 
 In my code I pay attention to efficiency, effectiveness and readability.
 
