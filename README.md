@@ -16,8 +16,7 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### Tools I'm good at ...
 
-<img src = '/images/adobe-indesign.svg' width='33'/> <img src = '/images/adobe-photoshop.svg' width='33'/> <img src = '/images/git.svg' width='30'/> 
-<img src = '/images/adobe-illustrator.svg' width='33'/> <img src = '/images/wordpress.svg' width='33'/> <img src = '/images/figma.svg' height='30'/> <img src = '/images/typo3.svg' height='30'/>
+<img src = '/images/adobe-illustrator.svg' width='33' "Adobe Illustrator"/> <img src = '/images/adobe-indesign.svg' width='33' "Adobe InDesign"/> <img src = '/images/adobe-photoshop.svg' width='33' "Adobe Photoshop"/> <img src = '/images/git.svg' width='30' "git"/> <img src = '/images/wordpress.svg' width='33' "WordPress"/> <img src = '/images/figma.svg' height='30' "figma"/> <img src = '/images/typo3.svg' height='30' "TYPO3"/>
 
 - Microsoft Office
 - Apple iWorks
@@ -30,13 +29,13 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I’m currently learning ...
 
-<img src = '/images/js.svg' width='30'/> <img src = '/images/bootstrap.svg' height='30'/>
+<img src = '/images/js.svg' width='30' "JavaScript"/> <img src = '/images/bootstrap.svg' height='30' "Bootstrap"/>
 
 ---
 
 ### What I will learn soon ...
 
-<img src = '/images/react.svg' width='33'/> <img src = '/images/sass.svg' width='33'/> <img src = '/images/wordpress.svg' width='33'/>
+<img src = '/images/react.svg' width='33' "react"/> <img src = '/images/sass.svg' width='33' "SASS"/> <img src = '/images/wordpress.svg' width='33' "WordPress"/>
 
 ---
 
