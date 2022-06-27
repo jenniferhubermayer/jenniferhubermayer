@@ -10,13 +10,13 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### Programming languages I'm good at ...
 
-<img src = '/images/html.svg' width='30'/> <img src = '/images/css.svg' width='30'/>
+<img alt="HTML" title="HTML" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/html.svg" /> <img alt="CSS" title="CSS" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/css.svg" />
 
 ---
 
 ### Tools I'm good at ...
 
-<img src = '/images/adobe-illustrator.svg' width='33' "Adobe Illustrator"/> <img src = '/images/adobe-indesign.svg' width='33' "Adobe InDesign"/> <img src = '/images/adobe-photoshop.svg' width='33' "Adobe Photoshop"/> <img src = '/images/git.svg' width='30' "git"/> <img src = '/images/wordpress.svg' width='33' "WordPress"/> <img src = '/images/figma.svg' height='30' "figma"/> <img src = '/images/typo3.svg' height='30' "TYPO3"/>
+<img alt="Adobe Illustrator" title="Adobe Illustrator" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/adobe-illustrator.svg" /> <img alt="Adobe InDesign" title="Adobe InDesign" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/adobe-indesign.svg" /> <img alt="Adobe Photoshop" title="Adobe Photoshop" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/adobe-photoshop.svg" /> <img alt="Git" title="Git" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/git.svg" /> <img alt="WordPress" title="WordPress" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/wordpress.svg" /> <img alt="Figma" title="Figma" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/figma.svg" /> <img alt="TYPO3" title="TYPO3" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/typo3.svg" />
 
 - Microsoft Office
 - Apple iWorks
@@ -29,13 +29,14 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I’m currently learning ...
 
-<img src = '/images/js.svg' width='30' "JavaScript"/> <img src = '/images/bootstrap.svg' height='30' "Bootstrap"/>
+<img alt="JavaScript" title="JavaScript" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/js.svg" /> <img alt="Bootsrap" title="Bootsrap" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/bootstrap.svg" />
 
 ---
 
 ### What I will learn soon ...
 
-<img src = '/images/react.svg' width='33' "react"/> <img src = '/images/sass.svg' width='33' "SASS"/> <img src = '/images/wordpress.svg' width='33' "WordPress"/>
+<img alt="React" title="React" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/react.svg" /> <img alt="Sass" title="Sass" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/sass.svg" /> <img alt="WordPress" title="WordPress" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/wordpress.svg" />
+
 
 ---
 
