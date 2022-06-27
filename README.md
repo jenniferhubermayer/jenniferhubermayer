@@ -51,7 +51,7 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### How to reach me:
 
-You're welcome to reach me at [LinkedIn](https://de.linkedin.com/in/jennifer-huber-mayer)
+You're welcome to contact me at [LinkedIn](https://de.linkedin.com/in/jennifer-huber-mayer)
 
 <!-- <img src = '/images/c-original.svg' width='30'/> -->
 <!-- <img src = '/images/cpp.svg' width='30'/> -->
