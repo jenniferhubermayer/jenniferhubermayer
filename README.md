@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=jenniferhubermayer&color=green)
+![](https://komarev.com/ghpvc/?username=jenniferhubermayer&color=green&style=for-the-badge)
 
 I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new technologies 💻. Currently I am going to skill up as a trainee in frontend development at [super(c)ode](https://www.super-code.de/).
 
