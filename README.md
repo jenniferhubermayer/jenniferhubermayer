@@ -54,12 +54,13 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I’m currently working on ...
 
-- Frontend Mentor Challenge - Huddle landing page with curved sections – 👀 [Repository](https://github.com/jenniferhubermayer/huddle-landing-page-with-curved-sections)
+...
 
 ---
 
 ### I lately finished ...
 
+- Frontend Mentor Challenge - Huddle landing page with curved sections – 👀 [Repository](https://github.com/jenniferhubermayer/huddle-landing-page-with-curved-sections)
 - super(c)ode Challenge – Online horoscope using if-else-check – 👀 [Repository](https://github.com/jenniferhubermayer/horoscope-using-if-else-check)
 - super(c)ode Challenge – Online member list using arrays – 👀 [Repository](https://github.com/jenniferhubermayer/member-list-using-array)
 - super(c)ode Challenge – German online VAT calculator – 👀 [Repository](https://github.com/jenniferhubermayer/online-VAT-calculator)
