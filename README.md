@@ -6,9 +6,13 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferhubermayer&layout=compact">
 
+---
+
 ### Programming languages I'm good at ...
 
 <img src = '/images/html.svg' width='30'/> <img src = '/images/css.svg' width='30'/>
+
+---
 
 ### Tools I'm good at ...
 
@@ -21,13 +25,19 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 - Google Tag Manager
 - Facebook Ads Manager
 
+---
+
 ### I’m currently learning ...
 
 <img src = '/images/js.svg' width='30'/> <img src = '/images/bootstrap.svg' height='30'/>
 
+---
+
 ### What I will learn soon ...
 
 <img src = '/images/react.svg' width='33'/> <img src = '/images/sass.svg' width='33'/> <img src = '/images/wordpress.svg' width='33'/>
+
+---
 
 ### Skills I'm good at ...
 
@@ -37,9 +47,13 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 - Account management
 - Product development and management
 
+---
+
 ### I’m currently working on ...
 
 - Frontend Mentor Challenge - Huddle landing page with curved sections – 👀 [Repository](https://github.com/jenniferhubermayer/huddle-landing-page-with-curved-sections)
+
+---
 
 ### I lately finished ...
 
@@ -48,6 +62,8 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 - super(c)ode Challenge – German online VAT calculator – 👀 [Repository](https://github.com/jenniferhubermayer/online-VAT-calculator)
 - super(c)ode Challenge – Camper-App with booking-tool for curated roadtrips – 👀 [Repository](https://github.com/jenniferhubermayer/camper-app)
 - Frontend Mentor Challenge - Intro component with sign up form solution – 👀 [Repository](https://github.com/jenniferhubermayer/intro-component-with-signup-form)
+
+---
 
 ### How to reach me:
 
