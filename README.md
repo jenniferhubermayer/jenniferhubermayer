@@ -12,7 +12,7 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### Tools I'm good at ...
 
-<img src = '/images/adobe-indesign.svg' width='33'/> <img src = '/images/adobe-photoshop.svg' width='33'/> <img src = '/images/adobe-illustrator.svg' width='33'/> <img src = '/images/wordpress.svg' width='33'/> <img src = '/images/figma.svg' width='33'/> <img src = '/images/typo3.svg' width='33'/>
+<img src = '/images/adobe-indesign.svg' width='33'/> <img src = '/images/adobe-photoshop.svg' width='33'/> <img src = '/images/adobe-illustrator.svg' width='33'/> <img src = '/images/wordpress.svg' width='33'/> <img src = '/images/figma.svg' height='30'/> <img src = '/images/typo3.svg' height='30'/>
 
 - Microsoft Office
 - Apple iWorks
@@ -23,7 +23,7 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I’m currently learning ...
 
-<img src = '/images/js.svg' width='30'/> <img src = '/images/bootstrap.svg' width='33'/>
+<img src = '/images/js.svg' width='30'/> <img src = '/images/bootstrap.svg' height='30'/>
 
 ### What I will learn soon ...
 
