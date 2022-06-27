@@ -16,7 +16,8 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### Tools I'm good at ...
 
-<img src = '/images/adobe-indesign.svg' width='33'/> <img src = '/images/adobe-photoshop.svg' width='33'/> <img src = '/images/adobe-illustrator.svg' width='33'/> <img src = '/images/wordpress.svg' width='33'/> <img src = '/images/figma.svg' height='30'/> <img src = '/images/typo3.svg' height='30'/>
+<img src = '/images/adobe-indesign.svg' width='33'/> <img src = '/images/adobe-photoshop.svg' width='33'/> <img src = '/images/git.svg' width='30'/> 
+<img src = '/images/adobe-illustrator.svg' width='33'/> <img src = '/images/wordpress.svg' width='33'/> <img src = '/images/figma.svg' height='30'/> <img src = '/images/typo3.svg' height='30'/>
 
 - Microsoft Office
 - Apple iWorks
@@ -84,7 +85,6 @@ You're welcome to contact me at [LinkedIn](https://de.linkedin.com/in/jennifer-h
  <img src = '/images/flutter-logo.svg' width='30'/> 
  <img src = '/images/django.svg' height='40'/> 
  <img src = '/images/flask.png' width='30'/> 
- <img src = '/images/git.svg' width='30'/> 
  <img src = '/images/nodejs.svg' width='33'/> 
 
 <!--
