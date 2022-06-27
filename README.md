@@ -65,7 +65,7 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 - super(c)ode Challenge – Online member list using arrays – 👀 [Repository](https://github.com/jenniferhubermayer/member-list-using-array)
 - super(c)ode Challenge – German online VAT calculator – 👀 [Repository](https://github.com/jenniferhubermayer/online-VAT-calculator)
 - super(c)ode Challenge – Camper-App with booking-tool for curated roadtrips – 👀 [Repository](https://github.com/jenniferhubermayer/camper-app)
-- Frontend Mentor Challenge - Intro component with sign up form solution – 👀 [Repository](https://github.com/jenniferhubermayer/intro-component-with-signup-form)
+- Frontend Mentor Challenge – Intro component with sign up form solution – 👀 [Repository](https://github.com/jenniferhubermayer/intro-component-with-signup-form)
 
 ---
 
