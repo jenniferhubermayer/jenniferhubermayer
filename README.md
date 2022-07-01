@@ -54,6 +54,8 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I’m currently working on ...
 
+- super(c)ode Challenge – Retro calculator – 👀 [Repository](https://github.com/jenniferhubermayer/retro-calculator)
+- Cheatsheet – 👀 [Repository](https://github.com/jenniferhubermayer/cheatsheet)
 - super(c)ode Challenge – Check splitting and tipp calculator – 👀 [Repository](https://github.com/jenniferhubermayer/check-splitting-and-tipp-calculator)
 
 ---
