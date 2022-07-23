@@ -31,14 +31,13 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I’m currently learning ...
 
-<img alt="JavaScript" title="JavaScript" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/js.svg" /> <img alt="Bootsrap" title="Bootsrap" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/bootstrap.svg" />
+<img alt="JavaScript" title="JavaScript" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/js.svg" /> <img alt="Bootsrap" title="Bootsrap" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/bootstrap.svg" /> <img alt="Sass" title="Sass" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/sass.svg" /> <img alt="WordPress" title="WordPress" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/wordpress.svg" />
 
 ---
 
 ### What I will learn soon ...
 
-<img alt="React" title="React" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/react.svg" /> <img alt="Sass" title="Sass" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/sass.svg" /> <img alt="WordPress" title="WordPress" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/wordpress.svg" />
-
+<img alt="React" title="React" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/react.svg" /> 
 
 ---
 
@@ -54,14 +53,15 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I’m currently working on ...
 
+- super(c)ode Challenge – Rock, paper, scissors online game – 👀 [Repository](https://github.com/jenniferhubermayer/rock-paper-scissors)
 - Cheatsheet – 👀 [Repository](https://github.com/jenniferhubermayer/cheatsheet)
 - super(c)ode Challenge – Check splitting and tipp calculator – 👀 [Repository](https://github.com/jenniferhubermayer/check-splitting-and-tipp-calculator)
+- super(c)ode Challenge – Retro calculator – 👀 [Repository](https://github.com/jenniferhubermayer/retro-calculator)
 
 ---
 
 ### I lately finished ...
 
-- super(c)ode Challenge – Retro calculator – 👀 [Repository](https://github.com/jenniferhubermayer/retro-calculator)
 - Frontend Mentor Challenge – Huddle landing page with curved sections – 👀 [Repository](https://github.com/jenniferhubermayer/huddle-landing-page-with-curved-sections)
 - super(c)ode Challenge – Online horoscope using if-else-check – 👀 [Repository](https://github.com/jenniferhubermayer/horoscope-using-if-else-check)
 - super(c)ode Challenge – Online member list using arrays – 👀 [Repository](https://github.com/jenniferhubermayer/member-list-using-array)
