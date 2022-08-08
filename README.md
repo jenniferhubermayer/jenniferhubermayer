@@ -61,6 +61,7 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I lately finished ...
 
+- super(c)ode Challenge – Snake game – 👀 [Repository](https://github.com/jenniferhubermayer/snake)
 - super(c)ode Challenge – Rock, paper, scissors online game – 👀 [Repository](https://github.com/jenniferhubermayer/rock-paper-scissors)
 - Frontend Mentor Challenge – Huddle landing page with curved sections – 👀 [Repository](https://github.com/jenniferhubermayer/huddle-landing-page-with-curved-sections)
 - super(c)ode Challenge – Online horoscope using if-else-check – 👀 [Repository](https://github.com/jenniferhubermayer/horoscope-using-if-else-check)
