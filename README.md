@@ -53,6 +53,7 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I’m currently working on ...
 
+- super(c)ode Challenge – Sneaker Shop – 👀 [Repository](https://github.com/jenniferhubermayer/sneaker-shop)
 - Cheatsheet – 👀 [Repository](https://github.com/jenniferhubermayer/cheatsheet)
 - super(c)ode Challenge – Check splitting and tipp calculator – 👀 [Repository](https://github.com/jenniferhubermayer/check-splitting-and-tipp-calculator)
 - super(c)ode Challenge – Retro calculator – 👀 [Repository](https://github.com/jenniferhubermayer/retro-calculator)
@@ -61,6 +62,7 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I lately finished ...
 
+- super(c)ode Challenge – News site using NewsAPI – 👀 [Repository](https://github.com/jenniferhubermayer/news-site-using-newsapi)
 - super(c)ode Challenge – Quiz build with JavaSript and HTML only – 👀 [Repository](https://github.com/jenniferhubermayer/quiz-js-and-html-only)
 - super(c)ode Challenge – Log in form with cookie set up – 👀 [Repository](https://github.com/jenniferhubermayer/form-validation-and-cookie-setup)
 - super(c)ode Challenge – Snake game – 👀 [Repository](https://github.com/jenniferhubermayer/snake)
