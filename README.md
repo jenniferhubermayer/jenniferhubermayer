@@ -38,7 +38,7 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### What I will learn soon ...
 
-<img src = '/images/python2.png' height='30'/>
+<img alt="Python" title="Python" height="33" src = '/images/python2.png' />
 
 ---
 
