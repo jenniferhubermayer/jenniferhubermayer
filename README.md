@@ -31,13 +31,14 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I’m currently learning ...
 
-<img alt="JavaScript" title="JavaScript" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/js.svg" /> <img alt="Bootsrap" title="Bootsrap" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/bootstrap.svg" /> <img alt="Sass" title="Sass" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/sass.svg" /> <img alt="WordPress" title="WordPress" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/wordpress.svg" />
+<img alt="JavaScript" title="JavaScript" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/js.svg" /> <img alt="Bootsrap" title="Bootsrap" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/bootstrap.svg" /> <img alt="Sass" title="Sass" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/sass.svg" /> <img alt="WordPress" title="WordPress" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/wordpress.svg" /> <img alt="React" title="React" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/react.svg" /> 
+
 
 ---
 
 ### What I will learn soon ...
 
-<img alt="React" title="React" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/react.svg" /> 
+<!-- <img src = '/images/python2.png' height='30'/> -->
 
 ---
 
@@ -53,7 +54,6 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I’m currently working on ...
 
-- super(c)ode Challenge – Sneaker Shop – 👀 [Repository](https://github.com/jenniferhubermayer/sneaker-shop)
 - Cheatsheet – 👀 [Repository](https://github.com/jenniferhubermayer/cheatsheet)
 - super(c)ode Challenge – Check splitting and tipp calculator – 👀 [Repository](https://github.com/jenniferhubermayer/check-splitting-and-tipp-calculator)
 - super(c)ode Challenge – Retro calculator – 👀 [Repository](https://github.com/jenniferhubermayer/retro-calculator)
@@ -62,6 +62,8 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I lately finished ...
 
+- super(c)ode Challenge – Super Carlist with react dynamic routes [Repository](https://github.com/jenniferhubermayer/super-car-list-react-dynamic-route)
+- super(c)ode Challenge – Sneaker Shop Website [Repository](https://github.com/jenniferhubermayer/sneaker-shop)
 - super(c)ode Challenge – News site using NewsAPI – 👀 [Repository](https://github.com/jenniferhubermayer/news-site-using-newsapi)
 - super(c)ode Challenge – Quiz build with JavaSript and HTML only – 👀 [Repository](https://github.com/jenniferhubermayer/quiz-js-and-html-only)
 - super(c)ode Challenge – Log in form with cookie set up – 👀 [Repository](https://github.com/jenniferhubermayer/form-validation-and-cookie-setup)
@@ -82,7 +84,6 @@ You're welcome to contact me at [LinkedIn](https://de.linkedin.com/in/jennifer-h
 
 <!-- <img src = '/images/c-original.svg' width='30'/> -->
 <!-- <img src = '/images/cpp.svg' width='30'/> -->
-<!-- <img src = '/images/python2.png' height='30'/> -->
 <!-- <img src = '/images/kotlin.svg' width='30'/>  -->
 <!-- <img src = '/images/dart.svg' width='33'/>  -->
 <!-- <img src = '/images/php.svg' width='40'/> -->
