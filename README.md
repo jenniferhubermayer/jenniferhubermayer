@@ -10,9 +10,9 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ---
 
-### Programming languages I'm good at ...
+### Programming languages I use ...
 
-<img alt="HTML" title="HTML" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/html.svg" /> <img alt="CSS" title="CSS" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/css.svg" />
+<img alt="HTML" title="HTML" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/html.svg" /> <img alt="CSS" title="CSS" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/css.svg" /> <img alt="Sass" title="Sass" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/sass.svg" />
 
 ---
 
@@ -31,7 +31,7 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I’m currently learning ...
 
-<img alt="JavaScript" title="JavaScript" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/js.svg" /> <img alt="Bootsrap" title="Bootsrap" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/bootstrap.svg" /> <img alt="Sass" title="Sass" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/sass.svg" /> <img alt="WordPress" title="WordPress" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/wordpress.svg" /> <img alt="React" title="React" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/react.svg" /> 
+<img alt="JavaScript" title="JavaScript" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/js.svg" /> <img alt="Bootsrap" title="Bootsrap" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/bootstrap.svg" /> <img alt="WordPress" title="WordPress" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/wordpress.svg" /> <img alt="React" title="React" height="33" src="https://github.com/jenniferhubermayer/jenniferhubermayer/blob/main/images/react.svg" /> 
 
 
 ---
