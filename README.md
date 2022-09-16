@@ -62,7 +62,8 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I lately finished ...
 
-- super(c)ode Challenge – Super Carlist with react dynamic routes [Repository](https://github.com/jenniferhubermayer/super-car-list-react-dynamic-route)
+- super(c)ode Challenge – Super Carlist with react dynamic routes Dom [Repository](https://github.com/jenniferhubermayer/super-car-list-react-dynamic-route)
+- super(c)ode Challenge – Woodies Furnuture Shop with react routes Dom [Repository](https://github.com/jenniferhubermayer/woodies-furniture-shop-react-routes)
 - super(c)ode Challenge – Design Shop Website with react props [Repository](https://github.com/jenniferhubermayer/design-shop-react-props)
 - super(c)ode Challenge – Sneaker Shop Website [Repository](https://github.com/jenniferhubermayer/sneaker-shop)
 - super(c)ode Challenge – News site using NewsAPI – 👀 [Repository](https://github.com/jenniferhubermayer/news-site-using-newsapi)
