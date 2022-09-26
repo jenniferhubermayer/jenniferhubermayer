@@ -54,6 +54,7 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I’m currently working on ...
 
+- super(c)ode Challenge – Beer App using Beers Api 👀 [Repository](https://github.com/jenniferhubermayer/beer-api-react)
 - Cheatsheet – 👀 [Repository](https://github.com/jenniferhubermayer/cheatsheet)
 - super(c)ode Challenge – Check splitting and tipp calculator – 👀 [Repository](https://github.com/jenniferhubermayer/check-splitting-and-tipp-calculator)
 - super(c)ode Challenge – Retro calculator – 👀 [Repository](https://github.com/jenniferhubermayer/retro-calculator)
@@ -62,6 +63,7 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I lately finished ...
 
+- Frontend Mentor Challenge – Notifications page solution – 👀 [Repository](https://github.com/jenniferhubermayer/notifications-page)
 - super(c)ode Challenge – Simple Blog with react dynamic routes Dom 👀 [Repository](https://github.com/jenniferhubermayer/simple-blog-react-router-dynamic)
 - super(c)ode Challenge – Super Carlist with react dynamic routes Dom 👀 [Repository](https://github.com/jenniferhubermayer/super-car-list-react-dynamic-route)
 - super(c)ode Challenge – Woodies Furnuture Shop with react routes Dom 👀 [Repository](https://github.com/jenniferhubermayer/woodies-furniture-shop-react-routes)
