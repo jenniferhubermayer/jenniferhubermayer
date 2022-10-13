@@ -62,6 +62,7 @@ I'm Jennifer Huber-Mayer. I am passionate about project management 🐙 and new 
 
 ### I lately finished ...
 
+- super(c)ode final project – sports.DB App build with react an usind sports.DB API [Repository](https://github.com/jenniferhubermayer/sports-db)
 - super(c)ode Challenge – Beer App using Beers Api 👀 [Repository](https://github.com/jenniferhubermayer/beer-api-react)
 - Frontend Mentor Challenge – Notifications page solution – 👀 [Repository](https://github.com/jenniferhubermayer/notifications-page)
 - super(c)ode Challenge – Simple Blog with react dynamic routes Dom 👀 [Repository](https://github.com/jenniferhubermayer/simple-blog-react-router-dynamic)
